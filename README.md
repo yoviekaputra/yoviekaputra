@@ -53,11 +53,11 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
   	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=yoviekaputra&theme=dracula&hide_border=true" />
   </div>
   
-  <div>
+  <!--div>
   	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoviekaputra&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
   	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoviekaputra&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
   </div>
   
   <div>
 	<img src="https://activity-graph.herokuapp.com/graph?username=yoviekaputra&bg_color=22272e&color=FE6F95&line=A97BFF&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=Commits%20Graph" alt="Commits Graph" />
-  </div>
+  </div>-->
